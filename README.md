@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning coding (VUE.js)
 - 📫 My E-mail: bqfish0612@gmail.com
-- My Website:https://postcard.backfish.idv.tw/
+- My Website:https://www.backfish.idv.tw/
 
 <!---
 bqfish/bqfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
